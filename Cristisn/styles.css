@@ -1,0 +1,157 @@
+html{
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+body {
+    background-image: url(/img/noche.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 1000px;
+    background-attachment: fixed;
+    background-size: cover;
+    
+    
+  }
+  
+  #container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  h1 {
+    text-align: center;
+    color: white;
+    background-color: rgb(6, 6, 132);
+    border-left: 6px solid rgb(59, 59, 226);
+    border-bottom: 6px solid rgb(59, 59, 226);
+    border-top: 6px solid rgb(59, 59, 226);
+    border-right:6px solid rgb(59, 59, 226);
+    text-align: center;
+    width: auto 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+.center-img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+  
+h3 {
+  text-align: center;
+  color: white; 
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+}
+
+  h2 {
+    text-align: center;
+    color: white;
+    background-color: rgb(6, 6, 132);
+    border-left: 6px solid rgb(59, 59, 226);
+    border-bottom: 6px solid rgb(59, 59, 226);
+    border-top: 6px solid rgb(59, 59, 226);
+    border-right:6px solid rgb(59, 59, 226);
+    text-align: center;
+    width: auto 0;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  }
+  
+  p {
+    color: white;
+    line-height: 1.5;
+  }
+  
+  hr {
+    border: none;
+    border-top: 1px solid whitesmoke;
+    margin: 20px 0;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    color: white;
+  }
+  
+  .L1 {
+    text-align: center;
+    color: black;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  }
+
+  .L2 {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif ;
+  }
+  
+  th, td {
+    padding: 10px;
+    text-align: left;
+    border-bottom: 1px solid white;
+    border-left: 6px solid rgb(59, 59, 226);
+    border-bottom: 6px solid rgb(59, 59, 226);
+    border-top: 6px solid rgb(59, 59, 226);
+    border-right:6px solid rgb(59, 59, 226);
+   
+  }
+  
+  .skills {
+    margin-bottom: 20px;
+  }
+  
+  .skills h2 {
+    color: white;
+  }
+  
+  .skills ul {
+    list-style-type: disc;
+    padding-left: 20px;
+    color: white;
+  }
+  
+  .skills li {
+    margin-bottom: 5px;
+  }
+
+  a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-decoration: none;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+  }
+
+a img {
+    max-width: 50px;
+    vertical-align: middle;
+    margin-right: 10px;
+    align-items: center;
+}
+
+.A1 {
+  text-align: left;
+  width: auto;
+  display: inline-block;
+  background-color: rgb(6, 6, 132);
+  padding: 10px 20px;
+  color: white;
+  font-size: 18px;
+  border-left: 6px solid rgb(59, 59, 226);
+  border-bottom: 6px solid rgb(59, 59, 226);
+  border-top: 6px solid rgb(59, 59, 226);
+  border-right:6px solid rgb(59, 59, 226);
+  border-radius: 4px;
+  text-decoration: none;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+  position: relative;
+  top: -10px;
+  left: -345px;
+}
+
+.A1:hover {
+  background-color: rgb(95, 95, 240);
+}
+
