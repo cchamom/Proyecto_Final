@@ -27,13 +27,3 @@ function cambiarFuente() {
 	  elemento.style.fontSize = (fontSize + 1) + 'px';
 	}
   }
-
-  function resetear(numero){
-    var titulo = document.getElementById('titulo');
-    var parrafo = document.getElementById('parrafo');
-    var body = document.body;
-
-    titulo.classList = "";
-    parrafo.classList = "";
-    body.classList = "";
-}
