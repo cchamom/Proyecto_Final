@@ -133,6 +133,38 @@ th, td {
   border-right:6px solid green;
 }
 
+a img {
+  max-width: 50px;
+  vertical-align: middle;
+  margin-right: 10px;
+  align-items: center;
+}
+
+input {
+  background-color: rgb(101, 165, 6);
+  color: white;
+  border: none 12px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
+input:hover {
+  color: white;
+  background-color: rgb(194, 236, 131);
+}
+
+textarea {
+  color: black;
+  background-color: rgb(186, 241, 103);
+  border: none 12px;
+  font-size: 20px;
+  font-weight: bold;
+  cursor: pointer;
+  border-radius: 12px;
+}
+
 
 
 .A1 {
