@@ -3,7 +3,7 @@ html{
 }
 
 body {
-    background-image: url(/img/noche.jpg);
+    background-image: url("/img/noche.jpg");
     background-repeat: no-repeat;
     background-position: center center;
     height: 1000px;
